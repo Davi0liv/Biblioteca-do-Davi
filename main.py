@@ -1,11 +1,6 @@
-"""
-Sistema de Gerenciamento de Biblioteca
+
+"""Sistema de Gerenciamento de Biblioteca"""
 ----------------------------------------
-Programa de linha de comando para cadastrar, emprestar, devolver,
-listar, buscar e ordenar livros. Os dados sao guardados em um
-arquivo de texto (livros.txt) para nao se perderem quando o
-programa fecha.
-"""
 
 import os
 
